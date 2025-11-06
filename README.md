@@ -1,4 +1,4 @@
-("image.png")
+![Image]("image.png")
 # 🚗 Car Sales Data Analysis
 
 ## 📊 Overview
@@ -61,5 +61,6 @@ The script generates a unified dashboard containing 5 key analyses.
 
 - **Analysis:** A bar chart ranking the top 10 manufacturers based on the average selling price of their vehicles.
 - **Insight:** Identifies the luxury and high-end brands present in the dataset.
+
 
 
